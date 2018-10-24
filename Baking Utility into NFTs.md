@@ -7,7 +7,7 @@ NFTs have been largely dominated by the 'collectable' community, which, of cours
 Christopher Robison discusses how ERC721s - and other emerging standards, such as ERC998 - are fundamental building blocks for virtual economies and discusses how these might best be applied in ways which are familiar to video games, but new to blockchain.
 
 ## Presentation
-- [Pre-Recorded Video](https://youtu.be/MzHUo-bOqiA)
+- [Pre-Recorded Video](https://youtu.be/3ZNnOt5gLmo)
 - [Keynote Slides (View Only)](https://www.icloud.com/keynote/0DUPpjDqH9K3wnIY8ilClav9g#EthBerlin_-_Baking_Utility_NFTs_-_KEYNOTE)
 - [NFTweets Demo (Live on Mainnet)](http://nftweets.com/)
 
